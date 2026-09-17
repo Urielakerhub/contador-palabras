@@ -1,0 +1,133 @@
+ANALISIS DEL DOCUMENTO
+======================
+
+Archivo: texto.txt
+
+Total de lineas: 22
+Total de palabras: 199
+Palabras diferentes: 118
+
+Palabra mas frecuente:
+de (16)
+
+FRECUENCIA DE PALABRAS
+----------------------
+
+1                    1
+a                    2
+al                   1
+analizar             1
+antes                1
+aplicacion           1
+aplicaciones         1
+apropiado            2
+archivo              3
+archivos             2
+args0                1
+argumento            2
+bufferedreader       1
+bytes                1
+cada                 1
+cadenas              1
+cambiar              1
+caracteres           2
+clases               1
+codigo               2
+como                 3
+compilar             1
+con                  2
+contabilizarlas      1
+contenido            1
+conteo               1
+cualquier            1
+datos                2
+de                   16
+del                  1
+desarrollar          1
+desde                1
+diferentes           1
+directamente         2
+documento            1
+dos                  1
+el                   7
+en                   4
+entrada              1
+es                   2
+escribir             2
+escribirlo           1
+escritas             1
+especializadas       1
+esta                 1
+este                 1
+estuvieran           1
+facilita             1
+flexibilidad         1
+flujo                2
+flujos               2
+fuente               1
+inexacto             1
+informacion          2
+java                 4
+justifique           1
+la                   3
+las                  4
+leer                 3
+lenguaje             1
+linea                2
+lo                   1
+los                  2
+lugar                1
+manipulacion         1
+mas                  2
+mayusculas           1
+minusculas           1
+modificar            1
+necesidad            1
+ni                   1
+no                   1
+nombre               1
+normalizamos         1
+o                    1
+ocurriria            1
+otorga               1
+palabras             4
+para                 1
+pegadas              1
+permite              2
+permiten             2
+plano                1
+por                  3
+porque               2
+preferible           1
+principales          1
+problema             1
+programa             2
+programacion         1
+puede                2
+puedes               1
+puntuacion           1
+que                  6
+quieras              1
+razones              1
+recibir              1
+recibirlo            1
+resulta              2
+reutilizacion        1
+salida               1
+se                   1
+separacion           1
+seria                1
+si                   1
+signo                1
+sin                  1
+tambien              1
+terminal             1
+texto                3
+tipo                 1
+tipos                1
+trabajando           1
+un                   5
+utilizando           1
+vez                  1
+volver               1
+y                    5

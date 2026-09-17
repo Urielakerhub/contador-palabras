@@ -1,0 +1,22 @@
+Java es un lenguaje de programacion.
+Java permite desarrollar diferentes tipos de aplicaciones.
+
+Un programa Java puede leer informacion de archivos.
+Un programa Java tambien puede escribir informacion en archivos.
+
+Los flujos de entrada permiten leer datos.
+Los flujos de salida permiten escribir datos.
+
+1. ¿Que tipo de flujo resulta mas apropiado para este problema: bytes o caracteres? Justifique.
+
+El flujo de caracteres. Es el mas apropiado porque se esta trabajando directamente con un archivo de texto plano, lo que permite leer el contenido linea por linea utilizando clases especializadas como BufferedReader y facilita la manipulacion y separacion de las palabras en cadenas de texto
+
+¿Por que resulta preferible recibir el nombre del archivo como argumento en lugar de escribirlo directamente en el codigo?
+
+Porque otorga flexibilidad y reutilizacion. Al recibirlo como argumento (args[0]), puedes analizar cualquier archivo de texto desde la terminal sin necesidad de modificar el codigo fuente ni volver a compilar la aplicacion cada vez que quieras cambiar de documento
+
+¿Que ocurriria si no normalizamos las palabras antes de contabilizarlas?
+
+El conteo seria inexacto por dos razones principales:
+
+Las palabras escritas con mayusculas y minusculas y las palabras que estuvieran pegadas a un signo de puntuacion
